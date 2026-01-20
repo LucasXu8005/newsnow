@@ -1,0 +1,10 @@
+{
+    "name": "newsnow",
+    "main": "dist/output/server/index.mjs",
+    "compatibility_date": "2024-10-16",
+    "compatibility_flags": ["nodejs_compat"],
+    "assets": {
+      "directory": "./dist/output/public"
+    }
+  }
+  
